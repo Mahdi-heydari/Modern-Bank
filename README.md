@@ -1,8 +1,24 @@
-# React + Vite
+# Moder Bank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Moder Bank! This is a small project for showing react skill and style power, like :
+full responsive ans styleing base on tailwind . We're so glad you're here!
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started, you'll need to clone or download project and run with ~CRA~. Don't worry, it's easy! 😄
+
+## Usage
+
+1. Once you have the project up and running, you can write *npm start*, for run project
+
+2. write *npm install -D tailwindcss* and *npx tailwindcss init* for tailwind installing
+    2.2 Add the Tailwind directives to your CSS
+
+
+## Contact
+
+If you have any questions or feedback, please don't hesitate to reach out. You can find us on [GitHub](https://github.com/Mahdi-heydari) or [send us an email](mahdi.funlife@gmail.com). We'd love to hear from you!
+
+---
+
+We hope you enjoy using and watching **Modern-Bank** as much as we enjoyed creating it. Thank you for your support! 🌱
