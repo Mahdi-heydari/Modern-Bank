@@ -5,11 +5,11 @@ full responsive ans styleing base on tailwind . We're so glad you're here!
 
 ## Installation
 
-To get started, you'll need to clone or download project and run with ~CRA~. Don't worry, it's easy! 😄
+To get started, you'll need to clone or download project and run with ~VITE~. Don't worry, it's easy! 😄
 
 ## Usage
 
-1. Once you have the project up and running, you can write *npm start*, for run project
+1. Once you have the project up and running, you can write *run dev*, for run project
 
 2. write *npm install -D tailwindcss* and *npx tailwindcss init* for tailwind installing
     2.2 Add the Tailwind directives to your CSS
